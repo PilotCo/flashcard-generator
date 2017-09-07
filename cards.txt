@@ -1,0 +1,11 @@
+{
+  "type": "basic",
+  "front": "What is the capital of Utah?",
+  "back": "Salt Lake City"
+}
+{
+  "type": "cloze",
+  "full": "A car has 4 wheels.",
+  "partial": "4",
+  "close": "A car has ____ wheels."
+}
